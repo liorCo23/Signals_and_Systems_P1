@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# creating the time vector n=-1000:1:1000.
+# creating the time vector n= -1000:1:1000.
 # start value is -1000 and the stop value is 1001 (1001 not included).
 n = np.arange(-1000, 1001)
 
