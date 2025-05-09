@@ -1,3 +1,4 @@
+"""
 import math
 import cmath
 import matplotlib.pyplot as plt
@@ -170,3 +171,4 @@ d_real = np.real(d)
 plot_signal_smth(d_real, n, title='Signal convolution', xlabel='n', ylabel='d(n)')
 d_max = np.max(d_real)
 print(d_max)
+"""
